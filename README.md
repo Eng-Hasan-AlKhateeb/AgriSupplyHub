@@ -26,7 +26,7 @@ A **lightweight Node.js API** for agricultural supplies e-commerce with:
 1. **Clone the repository**  
     ```bash
     cd e-commerce
-    git clone [your-repo-url]
+    git clone https://github.com/Eng-Hasan-AlKhateeb/AgriSupplyHub
 2. **Install dependencies**  
     ```bash
     npm install
